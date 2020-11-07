@@ -1,2 +1,2 @@
 # APIs-Java
-Resueltos  7 Ejercicios Java
+- Resueltos siete ejercicios pertenecientes al lenguaje Java.
